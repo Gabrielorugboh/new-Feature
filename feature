@@ -1,2 +1,1 @@
-
-original bug fix
+Original and final copy for git
